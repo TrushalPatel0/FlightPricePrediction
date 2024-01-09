@@ -4,6 +4,7 @@
 ## **Business Case-Study**
 
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. That’s why we will try to use machine learning algorithms including: Linear Regression, Decision Tree, Random Forest, Gradient Boosting and XG-Boosting to solve this problem. This can help airlines by predicting what prices they can maintain.
+
 ------
 ## **Dataset Description**
 
@@ -63,6 +64,7 @@ before onboarding.
 
 <img width="461" alt="image" src="https://github.com/TrushalPatel0/FlightPricePrediction/assets/144200919/515ab0d3-e91a-4625-b63a-f87a12114283">
 
+---------
 
 ![image](https://github.com/TrushalPatel0/FlightPricePrediction/assets/144200919/5c6b10db-56d3-4f8a-b4db-82659b6fb577)
 
